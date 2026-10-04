@@ -1,133 +1,7 @@
 [
   {
-    "changeset_id": 184886764,
-    "overpass_attempts": 2,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:08.504774+00:00"
-  },
-  {
-    "changeset_id": 184886763,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:11.069959+00:00"
-  },
-  {
-    "changeset_id": 184886761,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:13.221495+00:00"
-  },
-  {
-    "changeset_id": 184886760,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:13.743864+00:00"
-  },
-  {
-    "changeset_id": 184886757,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:14.251832+00:00"
-  },
-  {
-    "changeset_id": 184886756,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:14.790855+00:00"
-  },
-  {
-    "changeset_id": 184886755,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:15.318914+00:00"
-  },
-  {
-    "changeset_id": 184886754,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:15.841226+00:00"
-  },
-  {
-    "changeset_id": 184886753,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:16.054395+00:00"
-  },
-  {
-    "changeset_id": 184886751,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:16.579475+00:00"
-  },
-  {
-    "changeset_id": 184886749,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:16.789752+00:00"
-  },
-  {
-    "changeset_id": 184886745,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:17.866485+00:00"
-  },
-  {
-    "changeset_id": 184886744,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:18.424380+00:00"
-  },
-  {
-    "changeset_id": 184886743,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:19.192713+00:00"
-  },
-  {
-    "changeset_id": 184886739,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:19.716067+00:00"
-  },
-  {
-    "changeset_id": 184886738,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:20.265645+00:00"
-  },
-  {
-    "changeset_id": 184886736,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:20.470894+00:00"
-  },
-  {
-    "changeset_id": 184886735,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:21.014463+00:00"
-  },
-  {
-    "changeset_id": 184886734,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:22.144166+00:00"
-  },
-  {
-    "changeset_id": 184886732,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:23.207048+00:00"
-  },
-  {
-    "changeset_id": 184886731,
-    "overpass_attempts": 1,
-    "meta_fetch_failures": 0,
-    "first_flagged_utc": "2026-10-03T18:51:23.415720+00:00"
-  },
-  {
     "changeset_id": 184886730,
-    "overpass_attempts": 1,
+    "overpass_attempts": 2,
     "meta_fetch_failures": 0,
     "first_flagged_utc": "2026-10-03T18:51:23.957716+00:00"
   },
@@ -81718,5 +81592,17 @@
     "overpass_attempts": 1,
     "meta_fetch_failures": 0,
     "first_flagged_utc": "2026-10-04T01:39:11.129581+00:00"
+  },
+  {
+    "changeset_id": 184960428,
+    "overpass_attempts": 1,
+    "meta_fetch_failures": 0,
+    "first_flagged_utc": "2026-10-04T02:07:00.009625+00:00"
+  },
+  {
+    "changeset_id": 184960260,
+    "overpass_attempts": 1,
+    "meta_fetch_failures": 0,
+    "first_flagged_utc": "2026-10-04T02:07:00.501887+00:00"
   }
 ]
